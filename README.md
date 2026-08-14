@@ -4,4 +4,4 @@ A modern data warehouse with SQL Server, including ETL processes, data modeling,
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights, while highlighting industry best practices in data engineering and analytics.
 
 
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/11e852f1-e1fb-4134-a0af-e6c683a274d1" />
+<img width="1539" height="799" alt="data_architecture" src="https://github.com/user-attachments/assets/7445e236-8de4-4814-9e46-6e2a2df460b9" />

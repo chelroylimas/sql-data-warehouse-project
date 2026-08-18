@@ -6,7 +6,7 @@ A end-to-end data warehousing solution built on **SQL Server** using **Medallion
 
 ## Architecture
 
-![Data Architecture](docs/data_architecture.drawio.png)
+<img width="1539" height="799" alt="data_architecture" src="https://github.com/user-attachments/assets/7445e236-8de4-4814-9e46-6e2a2df460b9" />
 
 The project follows a three-layer Medallion Architecture:
 
